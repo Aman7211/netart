@@ -1,0 +1,17 @@
+.def{
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pqr{
+  margin-right: 8px;
+  margin-left: 8px;
+  background-color: red;
+  color: white;
+  height: 100px;
+  font-size: 20px;
+  justify-content: space-evenly;
+  align-items: center;
+
+}
